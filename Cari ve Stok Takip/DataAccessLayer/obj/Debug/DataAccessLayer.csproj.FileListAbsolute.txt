@@ -1,0 +1,22 @@
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

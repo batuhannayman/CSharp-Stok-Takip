@@ -1,0 +1,195 @@
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csprojAssemblyReference.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Properties.Resources.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.UserLogin.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.GenerateResource.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe.config
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.UserForgotPassword.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminForgotPassword.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminLogin.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewAdmin.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewUser.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUsers.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUserUpdate.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.HowToUse.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariAdd.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetail.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Cariler.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariUpdate.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAdd.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Product.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.ProductAdd.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.SalesAdd.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.UserMain.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CopyComplete
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe.config
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CarilerSatıcılar.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetailSatıcılar.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAddSatıcılar.resources
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.StokAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe.config
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe.config
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminForgotPassword.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminLogin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewAdmin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewUser.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUsers.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUserUpdate.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.HowToUse.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetail.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetailSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Cariler.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CarilerSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariUpdate.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAddSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Product.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.ProductAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.SalesAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.StokAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.UserForgotPassword.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.UserMain.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Properties.Resources.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.UserLogin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.GenerateResource.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CopyComplete
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe.config
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe.config
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminForgotPassword.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminLogin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewAdmin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewUser.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUsers.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUserUpdate.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.HowToUse.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetail.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetailSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Cariler.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CarilerSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariUpdate.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAddSatıcılar.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Product.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.ProductAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.SalesAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.StokAdd.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.UserForgotPassword.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.UserMain.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Properties.Resources.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.UserLogin.resources
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.GenerateResource.cache
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CopyComplete
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\Yeni klasör (4)\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe.config
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe.config
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminForgotPassword.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminLogin.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewAdmin.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewUser.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUsers.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUserUpdate.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.HowToUse.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariAdd.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetail.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetailSatıcılar.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Cariler.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CarilerSatıcılar.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariUpdate.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAdd.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAddSatıcılar.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Product.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.ProductAdd.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.SalesAdd.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.StokAdd.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.UserForgotPassword.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.UserMain.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Properties.Resources.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.UserLogin.resources
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.GenerateResource.cache
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CopyComplete
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\PROJE\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe.config
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\Cari ve Stok Takip.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\BusinessLogicLayer.exe.config
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminForgotPassword.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminLogin.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewAdmin.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminNewUser.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUsers.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.AdminUserUpdate.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.HowToUse.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariAdd.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetail.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariDetailSatıcılar.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Cariler.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CarilerSatıcılar.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.CariUpdate.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAdd.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.PayAddSatıcılar.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.Product.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.ProductAdd.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.SalesAdd.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.StokAdd.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.UserForgotPassword.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Formlar.User_Formları.UserMain.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.Properties.Resources.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari_ve_Stok_Takip.UserLogin.resources
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.GenerateResource.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.csproj.CopyComplete
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.exe
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\Cari ve Stok Takip\obj\Debug\Cari ve Stok Takip.pdb

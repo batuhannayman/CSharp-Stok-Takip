@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62073B7B-88BE-4774-BE23-BCF6F7EBA8F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cari_ve_Stok_Takip</RootNamespace>
+    <AssemblyName>Cari ve Stok Takip</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\Admin Formları\AdminForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminForgotPassword.Designer.cs">
+      <DependentUpon>AdminForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminNewAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminNewAdmin.Designer.cs">
+      <DependentUpon>AdminNewAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminNewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminNewUser.Designer.cs">
+      <DependentUpon>AdminNewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminUsers.Designer.cs">
+      <DependentUpon>AdminUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminUserUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Admin Formları\AdminUserUpdate.Designer.cs">
+      <DependentUpon>AdminUserUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\HowToUse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\HowToUse.Designer.cs">
+      <DependentUpon>HowToUse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariAdd.Designer.cs">
+      <DependentUpon>CariAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariDetail.Designer.cs">
+      <DependentUpon>CariDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariDetailSatıcılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariDetailSatıcılar.Designer.cs">
+      <DependentUpon>CariDetailSatıcılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\Cariler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\Cariler.Designer.cs">
+      <DependentUpon>Cariler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CarilerSatıcılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CarilerSatıcılar.Designer.cs">
+      <DependentUpon>CarilerSatıcılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\CariUpdate.Designer.cs">
+      <DependentUpon>CariUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\PayAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\PayAdd.Designer.cs">
+      <DependentUpon>PayAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\PayAddSatıcılar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\PayAddSatıcılar.Designer.cs">
+      <DependentUpon>PayAddSatıcılar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\Product.Designer.cs">
+      <DependentUpon>Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\ProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\ProductAdd.Designer.cs">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\SalesAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\SalesAdd.Designer.cs">
+      <DependentUpon>SalesAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\StokAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\StokAdd.Designer.cs">
+      <DependentUpon>StokAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\UserForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\UserForgotPassword.Designer.cs">
+      <DependentUpon>UserForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\User Formları\UserMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\UserMain.Designer.cs">
+      <DependentUpon>UserMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsCommonFeatures.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formlar\User Formları\UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\User Formları\UserLogin.Designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminForgotPassword.resx">
+      <DependentUpon>AdminForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminNewAdmin.resx">
+      <DependentUpon>AdminNewAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminNewUser.resx">
+      <DependentUpon>AdminNewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminUsers.resx">
+      <DependentUpon>AdminUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Admin Formları\AdminUserUpdate.resx">
+      <DependentUpon>AdminUserUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\HowToUse.resx">
+      <DependentUpon>HowToUse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\CariAdd.resx">
+      <DependentUpon>CariAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\CariDetail.resx">
+      <DependentUpon>CariDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\CariDetailSatıcılar.resx">
+      <DependentUpon>CariDetailSatıcılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\Cariler.resx">
+      <DependentUpon>Cariler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\CarilerSatıcılar.resx">
+      <DependentUpon>CarilerSatıcılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\CariUpdate.resx">
+      <DependentUpon>CariUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\PayAdd.resx">
+      <DependentUpon>PayAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\PayAddSatıcılar.resx">
+      <DependentUpon>PayAddSatıcılar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\Product.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\ProductAdd.resx">
+      <DependentUpon>ProductAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\SalesAdd.resx">
+      <DependentUpon>SalesAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\StokAdd.resx">
+      <DependentUpon>StokAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\UserForgotPassword.resx">
+      <DependentUpon>UserForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\User Formları\UserMain.resx">
+      <DependentUpon>UserMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Formlar\User Formları\UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="İmages\65842.png" />
+    <Content Include="İmages\Beykent_Universitesi_Logo_Yeni.png" />
+    <Content Include="İmages\current-account-1795298-1522564.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
+      <Project>{9e9a2d92-c704-4d37-be3e-5d2334744fe8}</Project>
+      <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntitiesLayer\EntitiesLayer.csproj">
+      <Project>{09519a31-f49a-4d31-976f-3757eefa17d3}</Project>
+      <Name>EntitiesLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

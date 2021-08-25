@@ -1,0 +1,11 @@
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\EntitiesLayer\obj\Debug\EntitiesLayer.pdb

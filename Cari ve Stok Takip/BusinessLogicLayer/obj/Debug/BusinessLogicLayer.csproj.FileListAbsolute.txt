@@ -1,0 +1,24 @@
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\source\repos\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\Yeni klasör (2)\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.exe
+C:\Users\Nayman\Desktop\C#_Batuhan_Nayman_1906001055\Cari ve Stok Takip\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
